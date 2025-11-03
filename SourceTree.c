@@ -2,7 +2,8 @@
 
 int main ()
 {
-    printf("First");
-
+    printf("First\n");
+    printf("Forth\n");
+    printf("main\n");
     return 0;
 }
