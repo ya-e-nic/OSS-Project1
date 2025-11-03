@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-imt num, num2;
+int num, num2;
 char ch;
 
 int main()
